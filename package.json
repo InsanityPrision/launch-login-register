@@ -1,0 +1,19 @@
+{
+  "name": "launch-login-register",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "serve public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-config-xo": "^0.44.0",
+    "serve": "^14.2.1"
+  }
+}
